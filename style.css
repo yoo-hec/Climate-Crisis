@@ -9,4 +9,29 @@
     --light: #FFFFFF;
 }
 
-  
+* {
+     margin: 0;
+     padding: 0;
+     box-sizing: border-box;
+     
+}
+
+body{
+font-family: 'Poppins', sans-serif;
+line-height: 1.5;
+color: var(--text);  
+background: linear-gradient(to bottom, var(--light-blue), #fff);
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
