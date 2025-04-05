@@ -24,11 +24,32 @@ background: linear-gradient(to bottom, var(--light-blue), #fff);
 
 }
 
+.navbar {
+     position: sitcky;
+     display: flex;
+     justify-content: space-between;
+     align-items: center;
+     padding: 1rem 3rem;
+     background-color: var(--dark-vlue);
+     color: var(--light);
+     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.4);
+}
 
+.navbar-title{
+     font-size: 1.5rem;
+     font-weight: 600;
+     letter-spacing:1px;
 
+}
 
+.navbar-links{
+     display:flex;
+     list-style:none;
+}
 
-
+.navbar-links li{
+margin-left: 2rem;
+}
 
 
 
