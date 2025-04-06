@@ -33,7 +33,7 @@ background: linear-gradient(to bottom, var(--light-blue), #fff);
      justify-content: space-between;
      align-items: center;
      padding: 1rem 3rem;
-     background-color: var(--dark-vlue);
+     background-color: var(--dark-blue);
      color: var(--light);
      box-shadow: 0 4px 10px rgba(0, 0, 0, 0.4);
 }
