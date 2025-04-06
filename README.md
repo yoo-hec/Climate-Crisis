@@ -21,11 +21,11 @@ This project was created for CSC 317 - Group Project #1. It presents six critica
 - Responsive design with media queries
 - Sticky navbar
 - Psuedo-classes/elements including:
-- :hover
-- :nth-child
-- ::before
-- ::after
-- and more!
+-   :hover
+-   :nth-child
+-   :: before
+-   :: after
+-   And More!!
 - Google Font usage
 - Flexbox layout
 - Footer
