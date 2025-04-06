@@ -45,14 +45,58 @@ background: linear-gradient(to bottom, var(--light-blue), #fff);
 .navbar-links{
      display:flex;
      list-style:none;
+     
 }
 
 .navbar-links li{
 margin-left: 2rem;
+     
 }
 
+.navbar-links a {
+     color: var(--light);
+     text-decorations:none;
+     
+}
+
+.navbar-links a:hover{
+     color: var(--secondary);
+     
+}
+
+.info::before{
+     content:"";
+     position: absolute;
+     width: 100%;
+     height: 100%;
+     background-color: lightblue;
+     z-index: -1;
+     
+}
+
+.info {
+     position: relative;
+     height: 70vh;
+     display: flex;
+     align-items: center;
+     justify-content: center;
+     text-align: center;
+     color: var(--light);
+     
+}
+
+.info-content{
+     max-width: 800px;
+     padding:2rem;
+     background-color: lightslategray;
+     border-radius:10px;
+}
+.info-content h1{
+     font-size: 3rem;
+     margin-bottom:1rem;
+}
+     
 
 
 
-
-
+     
