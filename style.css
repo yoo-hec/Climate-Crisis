@@ -1,12 +1,13 @@
 /* Base styles and variables */
-: root {
-     --primary: #057AFF;
+:root {
+    --primary: #057AFF;
     --secondary: #32CD32;
     --dark-blue: #004080;
     --light-blue: #E6F3FF;
     --accent: #FF6B35;
     --text: #333333;
     --light: #FFFFFF;
+
 }
 
 * {
@@ -55,7 +56,7 @@ margin-left: 2rem;
 
 .navbar-links a {
      color: var(--light);
-     text-decorations:none;
+     text-decoration:none;
      
 }
 
@@ -99,7 +100,7 @@ margin-left: 2rem;
 /* Facts Section */
 
 .facts-section {
-     padding 5rem 5%;
+     padding: 5rem 5%;
      text-align: center;
 }
 
@@ -131,8 +132,8 @@ margin-left: 2rem;
 .fact-card {
      position: relative;
      flex: 0 0 calc(33.333% - 2rem);
-     min-width: 300 px;
-     padding: 2 rem;
+     min-width: 300px;
+     padding: 2rem;
      border-radius: 8px;
      box-shadow: 0 5x 15px rgba(0, 0, 0, 0.5);
      transition: all 0.3s ease;
@@ -185,7 +186,7 @@ footer {
      }
 
      .info-content h1 {
-          font-size: 2 rem;
+          font-size: 2rem;
      }
 
      .fact-card {
