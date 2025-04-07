@@ -3,13 +3,13 @@ Project for CSC-317
 
 ## Project Overview 📝
 
-This project was created for CSC 317 - Group Project #1. It presents six critical facts about how climate change is affecting Hawaii's ecosystems, tourism, and natural environment.
+This project was created for CSC 317 - Group Project #1. It presents six critical facts about how climate change is affecting Hawaii's ecosystems and natural environment.
 
 ## Features 😎
 
 - Responsive design that works on mobile and desktop
 - Sticky navigation bar for easy section access
-- Interactive fact cards with hover effects
+- Interactive fact cards with hover effects and images
 - Beach and ocean-themed visual design
 - Implementation of 8+ psuedo-classes and psuedo-elements
 - Google Fonts integration
@@ -42,7 +42,7 @@ This project was created for CSC 317 - Group Project #1. It presents six critica
 
 ## Deployment 🚀
 
-This site is deployed using Netlify at 
+This site is deployed using Netlify at climatecrisis-csc317.netlify.app
 
 ## Course Information
 
